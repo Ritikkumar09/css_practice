@@ -1,0 +1,56 @@
+/* #box{
+    background-color: blue;
+    color: white; 
+}
+ /* .heading{
+    color: red;
+} */
+/* h1, h2, h3{
+    color: rgb(200, 29, 169);
+} */
+
+/*button{
+    color: green;
+    background-color: red;
+    
+
+}*/
+
+/* p{
+    text-align: center;
+    
+}
+h1{
+    text-align: center;
+    text-decoration: overline;
+}
+
+a{
+    text-decoration: none;
+} */
+ #h1{
+    font-weight: 100;
+ }
+ /* #h2{
+    font-weight: 255;
+ }
+ #h3{
+    font-weight: 800;
+ }
+ #h4{
+    font-weight: 900;
+ } */
+
+#one{
+    text-align: center;
+    font-family: arial, roboto, Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+
+}
+#two{
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    line-height: 20px;
+    text-transform: uppercase;
+}
